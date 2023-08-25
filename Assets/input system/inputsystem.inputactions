@@ -1,0 +1,110 @@
+{
+    "name": "inputsystem",
+    "maps": [
+        {
+            "name": "Map",
+            "id": "5b407fef-85f0-4d98-846e-32db66d343f7",
+            "actions": [
+                {
+                    "name": "triggermap",
+                    "type": "Button",
+                    "id": "41593f11-0313-4fcd-86f9-703321d0c330",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "shiftRight",
+                    "type": "Button",
+                    "id": "3985ac70-3500-4176-a7ce-ed33af3aa284",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ed1e5068-62da-4092-a366-b10abf7846a0",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "triggermap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "43e40363-2212-4e0a-a31d-148f5c493d14",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "shiftRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Gvrclick1",
+            "id": "bd8a6de6-abce-45d8-8a76-efd97f9bd4fd",
+            "actions": [
+                {
+                    "name": "gvrbuttonclick",
+                    "type": "Button",
+                    "id": "5c2a156b-48d9-4a49-8ffd-3581d3e50dbf",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a123fbf9-de0e-4d48-8839-de1c1ecf3b94",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "gvrbuttonclick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "boatskip",
+            "id": "da565d62-6e91-4080-9b77-d5ff2501fde2",
+            "actions": [
+                {
+                    "name": "skipBoat",
+                    "type": "Button",
+                    "id": "b5060c10-3ee1-43da-86ff-ff1943141279",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9423588e-c90c-46fc-8c85-d323c3260802",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "skipBoat",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

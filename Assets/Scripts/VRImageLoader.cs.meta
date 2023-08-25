@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7c45fd21c9127dd42a6217b6e7136b35
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - imageListTextAsset: {instanceID: 0}
+  - vrImagePrefab: {fileID: 919132149155446097, guid: cd86ef335052ade438e1a316be71ba2b,
+      type: 3}
+  - LeftButtonPrefab: {fileID: 8762920144953251078, guid: f7547a86558fa8048b5289898b5d1000,
+      type: 3}
+  - RightButtonPrefab: {fileID: 8901304880142481271, guid: 8d089eac3df094345a1ba927e27c4537,
+      type: 3}
+  - UpButtonPrefab: {fileID: 5676187886941983895, guid: ee4aaf78990c5694e9837fb54076726f,
+      type: 3}
+  - DownButtonPrefab: {fileID: 7550552260064570356, guid: de9715ad722110c40b2ed3b105df59e4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

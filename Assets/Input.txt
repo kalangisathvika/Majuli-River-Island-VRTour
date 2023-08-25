@@ -1,0 +1,371 @@
+16
+Rawanapar
+R325,R328,-1,-1,-1,262.5,4
+R328,R331,-1,R325,-1,-70,4
+R331,-1,-1,R328,-1,270,4
+Nayabazar
+NB1,NB4,-1,-1,-1,0,2
+NB4,NB7,-1,NB1,-1,0,2
+NB7,NB9,-1,NB4,-1,90,2
+NB9,-1,-1,NB7,-1,90,2
+Jugundhari Road
+R674,R675,-1,-1,-1,0,1
+R675,-1,-1,R674,-1,0,1
+Kamalabari Town
+KC (25)-min,KC (26)-min,-1,KC (1)-min,-1,-70,2
+KC (26)-min,KC (27)-min,-1,KC (25)-min,-1,-90,2
+KC (27)-min,KC (28)-min,-1,KC (26)-min,-1,-90,2
+KC (28)-min,KC (29)-min,-1,KC (27)-min,-1,-100,2
+KC (29)-min,KC (30)-min,-1,KC (28)-min,-1,-90,2
+KC (30)-min,KC (31)-min,-1,KC (29)-min,-1,110,2
+KC (31)-min,KC (32)-min,-1,KC (30)-min,-1,-90,-1
+KC (32)-min,KC (33)-min,-1,KC (31)-min,-1,-93,-1
+KC (33)-min,KC (34)-min,-1,KC (32)-min,-1,95,-1
+KC (34)-min,KC (35)-min,-1,KC (33)-min,-1,100,-1
+KC (35)-min,KC (36)-min,-1,KC (34)-min,-1,40,1
+KC (37)-min,-1,-1,KC (36)-min,-1,9,1
+KC (36)-min,KC (37)-min,-1,KC (35)-min,-1,20,1
+KC (18)-min,-1,KC (19)-min,-1,KC (1)-min,185,-1
+KC (19)-min,-1,KC (20)-min,-1,KC (18)-min,10,2
+KC (20)-min,-1,KC (21)-min,-1,KC (19)-min,-5.5,2
+KC (21)-min,-1,KC (22)-min,-1,KC (20)-min,190,2
+KC (22)-min,-1,KC (23)-min,-1,KC (21)-min,180,-1
+KC (23)-min,-1,KC (24)-min,-1,KC (22)-min,180,-1
+KC (24)-min,-1,-1,-1,KC (23)-min,-170,-1
+KC (8)-min,-1,KC (1)-min,-1,KC (9)-min,20,2
+KC (9)-min,-1,KC (8)-min,-1,KC (10)-min,90,2
+KC (10)-min,-1,KC (9)-min,-1,KC (11)-min,60,2
+KC (11)-min,-1,KC (10)-min,-1,KC (12)-min,10,2
+KC (12)-min,-1,KC (11)-min,-1,KC (13)-min,-25,2
+KC (13)-min,-1,KC (12)-min,-1,KC (14)-min,100,2
+KC (14)-min,-1,KC (13)-min,-1,KC (15)-min,203,2
+KC (15)-min,-1,KC (14)-min,-1,KC (16)-min,0,2
+KC (16)-min,-1,KC (15)-min,-1,KC (17)-min,180,2
+KC (17)-min,-1,KC (16)-min,-1,-1,180,2
+KC (7)-min,KC (6)-min,-1,-1,-1,120,-1
+KC (2)-min,KC (1)-min,-1,KC (3)-min,-1,90,2
+KC (3)-min,KC (2)-min,-1,KC (4)-min,-1,90,2
+KC (4)-min,KC (3)-min,-1,KC (5)-min,-1,0,-1
+KC (5)-min,KC (4)-min,-1,KC (6)-min,-1,-90,-1
+KC (6)-min,KC (5)-min,-1,KC (7)-min,-1,90,-1
+KC (1)-min,KC (25)-min,KC (18)-min,KC (2)-min,KC (8)-min,0,2
+Bhogpur Satra
+BH2,-1,-1,-1,BH1,90,-1
+BH1,-1,BH2,-1,BH3,90,-1
+BH3,-1,BH1,-1,BH4,90,-1
+BH4,-1,BH3,-1,BH5,90,-1
+BH5,-1,BH4,-1,BH6,90,-1
+BH6,-1,BH5,-1,BH7,90,-1
+BH7,-1,BH6,-1,BH8,60,-1
+BH8,-1,BH7,-1,R0010425,90,-1
+R0010425,R0010426,BH8,-1,R0010424,90,1
+R0010426,R0010425,-1,-1,-1,250,1
+R0010424,-1,R0010425,-1,R0010423,90,1
+R0010423,-1,R0010424,-1,R0010422,90,1
+R0010422,-1,R0010420,-1,R0010423,90,-1
+R0010420,-1,R0010422,-1,R0010419,90,-1
+R0010419,R0010420,-1,BH9,-1,90,-1
+BH9,-1,-1,R0010419,BH10,90,-1
+BH10,R0010414,BH9,-1,BH11,90,-1
+R0010414,R0010413,-1,-1,BH10,0,1
+BH11,BH13,BH10,BH12,BH14,90,3
+BH12,-1,-1,BH11,-1,270,3
+BH13,BH11,-1,-1,-1,270,3
+BH14,-1,BH11,-1,BH15,90,3
+BH15,-1,BH14,-1,BH16,90,3
+BH16,-1,BH15,-1,BH17,90,3
+R0010413,-1,R0010414,-1,R0010412,270,1
+R0010412,-1,R0010413,-1,R0010411,180,1
+R0010411,-1,R0010412,-1,-1,270,1
+BH17,-1,BH16,-1,BH18,90,3
+BH18,-1,BH17,BH20,BH19,90,3
+BH19,-1,BH18,BH21,-1,90,5
+BH20,-1,BH21,BH18,-1,0,3
+BH21,R0010409,-1,BH19,BH20,0,3
+R0010409,-1,R0010410,-1,BH21,0,1
+R0010410,-1,-1,-1,R0010409,0,-1
+Auniati Satra
+A1-min,-1,-1,-1,A2-min,90,3
+A2-min,-1,A1-min,-1,A3-min,90,3
+A3-min,-1,A2-min,-1,A4-min,90,-1
+A4-min,-1,A3-min,-1,A5-min,90,-1
+A5-min,-1,A4-min,-1,A6-min,90,3
+A6-min,-1,A5-min,-1,A7-min,90,3
+A7-min,-1,A6-min,-1,A8-min,90,1
+A8-min,-1,A7-min,-1,A9-min,90,1
+A9-min,-1,A8-min,-1,A11-min,90,1
+A11-min,A10-min,A12-min,-1,A9-min,90,1
+A12-min,-1,A11-min,-1,A13-min,270,1
+A13-min,-1,A14-min,A15-min,A12-min,270,1
+A14-min,-1,A13-min,-1,-1,90,1
+A15-min,A13-min,-1,A34-min,-1,0,1
+A34-min,A15-min,-1,A35-min,-1,0,-1
+A35-min,A34-min,-1,A36-min,-1,0,-1
+A36-min,A35-min,-1,-1,-1,180,-1
+A10-min,-1,A11-min,-1,A10.1-min,90,1
+A10.1-min,-1,A10-min,-1,A10.2-min,90,3
+A10.2-min,A38-min,A10.1-min,A47-min,A10.3-min,90,3
+A38-min,-1,-1,A10.2-min,A39-min,90,-1
+A47-min,-1,-1,A10.2-min,-1,315,-1
+A16-min,-1,-1,A17-min,A18-min,345,1
+A17-min,A19-min,A16-min,-1,A20-min,270,1
+A18-min,A16-min,-1,-1,-1,0,1
+A19-min,A17-min,-1,-1,-1,0,1
+A20-min,-1,A17-min,-1,A21-min,0,1
+A21-min,-1,A20-min,-1,A22-min,0,1
+A22-min,A33-min,A21-min,A42-min,A23-min,0,1
+A23-min,-1,A22-min,-1,A24-min,180,1
+A24-min,-1,A23-min,-1,A25-min,160,1
+A25-min,-1,A24-min,-1,-1,300,1
+A33-min,A22-min,-1,A32-min,-1,180,1
+A32-min,A33-min,-1,-1,-1,180,1
+A10.3-min,-1,A10.2-min,-1,A10.4-min,270,3
+A10.4-min,-1,A10.3-min,-1,A10.5-min,270,3
+A10.5-min,-1,A10.4-min,-1,A10.6-min,270,3
+A10.6-min,-1,A10.5-min,-1,A10.7-min,90,3
+A10.7-min,-1,A10.6-min,-1,A10.8-min,180,3
+A10.8-min,-1,A10.7-min,-1,A10.9-min,270,3
+A10.9-min,-1,A10.8-min,A42-min,10.10-min,270,3
+10.10-min,-1,A10.9-min,A43-min,A10.11-min,90,-1,
+A10.11-min,A10.12-min,10.10-min,A10.13-min,-1,90,5
+A10.12-min,A10.11-min,-1,A43-min,-1,270,5
+A10.13-min,A45-min,-1,A10.11-min,-1,0,5
+A45-min,-1,-1,A10.13-min,-1,0,-1
+A46-min,-1,-1,A10.7-min,-1,0,-1
+A42-min,A10.8-min,A43-min,A22-min,A41-min,270,-1
+A41-min,-1,A40-min,-1,A42-min,90,-1
+A40-min,-1,A39-min,-1,A41-min,90,-1
+A43-min,A10.12-min,A44-min,-1,A42-min,270,-1
+A44-min,-1,A43-min,-1,-1,290,-1
+A39-min,-1,A38-min,-1,A40-min,90,-1
+KCN1 (7)-min,KCN1 (6)-min,-1,-1,-1,0,-1
+Namoni Jokaibuwa Gaon
+R0010589-min,R0010590-min,-1,R0010577-min,R0010584-min,120,1
+R0010584-min,-1,R0010589-min,-1,R0010583-min,55,1
+R0010590-min,-1,-1,R0010589-min,R0010591-min,90,1
+R0010593-min,R0010595-min,R0010592-min,R0010594-min,-1,20,-1
+R0010583-min,-1,R0010584-min,-1,R0010578-min,180,1
+R0010579-min,R0010578-min,-1,-1,-1,-60,1
+R0010596-min,R0010595-min,R0010582-min,-1,R0010597-min,0,-1
+R0010581-min,-1,-1,R0010578-min,-1,180,1
+R0010582-min,-1,R0010581-min,-1,-1,180,1
+R0010578-min,R0010583-min,-1,R0010579-min,-1,-90,1
+R0010588-min,R0010587-min,-1,-1,-1,103,1
+R0010591-min,-1,R0010590-min,-1,R0010592-min,90,1
+R0010592-min,-1,R0010591-min,-1,R0010593-min,90,1
+R0010597-min,-1,R0010596-min,-1,-1,180,1
+R0010595-min,R0010593-min,-1,R0010596-min,-1,0,-1
+R0010594-min,R0010593-min,-1,-1,-1,0,-1
+R0010587-min,R0010586-min,-1,R0010588-min,-1,98,1
+R0010586-min,R0010585-min,-1,R0010587-min,-1,0,1
+R0010585-min,R0010577-min,-1,R0010586-min,-1,0,1
+R0010577-min,R0010589-min,-1,R0010585-min,R0010578-min,0,1
+Kamalabari Ghat
+KCN3 (7)-min,KCN3 (6)-min,-1,-1,-1,0,4
+Bhagor
+BG1 (1)-min,BG1 (2)-min,-1,BG1 (3)-min, BG1 (4)-min,357,-1
+BG1 (2)-min,-1,-1,BG1 (1)-min,-1,10,-1
+BG1 (3)-min,BG1 (1)-min,-1,-1,-1,98,-1
+BG1 (4)-min,-1,BG1 (1)-min,-1,BG1 (5)-min,3,-1
+BG1 (5)-min,-1,BG1 (4)-min,-1,BG1 (6)-min,356,1
+BG1 (6)-min,-1,BG1 (5)-min,-1,BG1 (7)-min,8,1
+BG1 (7)-min,-1,BG1 (6)-min,-1,BG1 (8)-min,0,-1
+BG1 (8)-min,-1,BG1 (7)-min,-1,BG1 (9)-min,5,1
+BG1 (9)-min,-1,BG1 (8)-min,-1,BG1 (10)-min,15,1
+BG1 (10)-min,-1,BG1 (9)-min,-1,BG1 (11)-min,10,1
+BG1 (11)-min,-1,BG1 (10)-min,-1,BG1 (12)-min,15,1
+BG1 (12)-min,-1,BG1 (11)-min,-1,BG1 (13)-min,8,-1
+BG1 (13)-min,-1,BG1 (12)-min,-1,BG1 (14)-min,350,-1
+BG1 (14)-min,-1,BG1 (13)-min,-1,-1,33,-1
+Gormur
+GT1 (1)-min,-1,-1,GT1 (9)-min,-1,335,1
+GT1 (2)-min,GT1 (8)-min,GT1 (3)-min,GT1 (7)-min,-1,358,-1
+GT1 (3)-min,-1,GT1 (4)-min,-1,GT1 (2)-min,330,-1
+GT1 (4)-min,-1,-1,-1,GT1 (3)-min,55,2
+GT1 (5)-min,GT1 (7)-min,-1,GT1 (6)-min,-1,340,2
+GT1 (6)-min,GT1 (5)-min,-1,-1,-1,325,2
+GT1 (7)-min,GT1 (2)-min,-1,GT1 (5)-min,-1,40,2
+GT1 (8)-min,GT1 (9)-min,-1,GT1 (2)-min,-1,330,2
+GT1 (9)-min,-1,-1,GT1 (8)-min,-1,0,2
+Samaguri
+SM1-min,SM5-min,SM4-min,-1,SM2-min,295,-1
+SM2-min,-1,SM1-min,-1,SM3-min,250,-1
+SM3-min,-1,SM2-min,-1,-1,0,-1
+SM4-min,-1,-1,-1,SM1-min,300,-1
+SM5-min,-1,SM6-min,SM1-min,-1,150,-1
+SM6-min,-1,SM8-min,-1,SM5-min,0,-1
+SM8-min,-1,SM9-min,-1,SM6-min,0,-1
+SM9-min,SM10-min,-1,-1,SM8-min,0,-1
+SM10-min,SM28-min,-1,SM9-min,SM11-min,350,-1
+SM11-min,-1,SM10-min,-1,SM12-min,350,1
+SM12-min,-1,SM11-min,-1,SM13-min,0,1
+SM13-min,SM14-min,SM12-min,-1,-1,250,1
+SM14-min,SM15-min,-1,SM13-min,-1,275,-1
+SM15-min,-1,-1,SM14-min,-1,260,-1
+SM16-min,-1,-1,SM20-min,SM17-min,277,-1
+SM17-min,-1,SM16-min,-1,SM18-min,265,-1
+SM18-min,-1,SM17-min,-1,SM19-min,195,-1
+SM19-min,-1,SM18-min,-1,-1,40,-1
+SM20-min,SM16-min,SM21-min,-1,-1,260,1
+SM21-min,SM24-min,SM25-min,-1,SM20-min,280,-1
+SM22-min,-1,-1,-1,SM24-min,175,-1
+SM24-min,-1,SM22-min,SM21-min,-1,240,-1
+SM25-min,-1,SM28-min,-1,SM21-min,70,-1
+SM28-min,-1,-1,SM10-min,SM25-min,30,-1
+Chotaipur
+CP (1)-min,-1,-1,-1,CP (2)-min,0,-1
+CP (2)-min,-1,CP (1)-min,-1,CP (3)-min,0,-1
+CP (3)-min,-1,CP (2)-min,-1,CP (4)-min,18,-1
+CP (4)-min,-1,CP (3)-min,-1,CP (5)-min,0,-1
+CP (5)-min,-1,CP (4)-min,-1,CP (6)-min,15,-1
+CP (6)-min,-1,CP (5)-min,-1,CP (7)-min,18,-1
+CP (7)-min,-1,CP (6)-min,-1,CP (8)-min,25,-1
+CP (8)-min,-1,CP (7)-min,-1,CP (9)-min,15,-1
+CP (9)-min,-1,CP (8)-min,-1,-1,2,-1
+Rongasahi
+RS1-min,RS2-min,-1,-1,-1,85,-1
+RS2-min,RS3-min,-1,RS1-min,-1,87,-1
+RS3-min,RS4-min,-1,RS2-min,-1,5,-1
+RS4-min,RS5-min,-1,RS3-min,-1,10,-1
+RS5-min,RS6-min,-1,RS4-min,-1,93,-1
+RS6-min,-1,-1,RS5-min,-1,27,-1
+NewKalambari
+NK1-min,NK2-min,-1,-1,-1,165,-1
+NK2-min,-1,-1,NK1-min,NK3-min,352,-1
+NK3-min,-1,NK2-min,-1,NK4-min,3,-1
+NK4-min,-1,NK3-min,-1,NK5-min,350,-1
+NK5-min,-1,NK4-min,-1,NK6-min,358,-1
+NK6-min,-1,NK5-min,-1,NK7-min,358,-1
+NK7-min,-1,NK6-min,-1,NK8-min,355,-1
+NK8-min,-1,NK7-min,-1,NK9-min,348,-1
+NK9-min,-1,NK8-min,-1,NK10-min,5,-1
+NK10-min,-1,NK9-min,-1,NK11-min,5,-1
+NK11-min,-1,NK10-min,-1,NK13-min,5,-1
+NK13-min,-1,NK11-min,-1,NK14-min,5,-1
+NK14-min,-1,NK13-min,-1,NK15-min,260,-1
+NK15-min,NK43-min,NK14-min,-1,NK16-min,355,-1
+NK16-min,-1,NK15-min,-1,NK17-min,0,-1
+NK17-min,-1,NK16-min,-1,NK18-min,0,-1
+NK18-min,-1,NK17-min,-1,NK19-min,10,-1
+NK19-min,-1,NK18-min,-1,NK20-min,75,-1
+NK20-min,-1,NK19-min,-1,NK21-min,100,-1
+NK21-min,NK22-min,NK20-min,-1,-1,5,-1
+NK22-min,NK23-min,-1,NK21-min,-1,350,-1
+NK23-min,NK24-min,-1,NK22-min,-1,350,-1
+NK24-min,NK25-min,-1,NK23-min,-1,350,-1
+NK25-min,NK26-min,-1,NK24-min,-1,0,-1
+NK26-min,NK27-min,-1,NK25-min,-1,10,-1
+NK27-min,-1,-1,NK26-min,NK28-min,185,-1
+NK28-min,-1,NK27-min,-1,NK29-min,185,-1
+NK29-min,-1,NK28-min,-1,NK30-min,185,-1
+NK30-min,-1,NK29-min,-1,NK31-min,185,-1
+NK31-min,-1,NK30-min,-1,NK32-min,185,-1
+NK32-min,-1,NK31-min,-1,NK35-min,195,-1
+NK35-min,-1,NK32-min,NK37-min,-1,82.93,-1
+NK37-min,NK35-min,-1,NK38-min,-1,100,-1
+NK38-min,NK37-min,-1,NK41-min,-1,95,-1
+NK41-min,NK38-min,NIL -min,NK42-min,-1,95,-1
+NK42-min,NK41-min,-1,NK43-min,NK45-min,105,-1
+NK43-min,NK42-min,-1,NK15-min,-1,180,-1
+NK45-min,NK46-min,NK42-min,-1,-1,180,-1
+NK46-min,NK47-min,-1,NK45-min,-1,180,-1
+NK47-min,NK46-min,-1,-1,NK48-min,0,-1
+NK48-min,-1,NK47 -min,-1,NK49-min,310,-1
+NK49-min,-1,NK48-min,-1,NK50-min,100,-1
+NK50-min,-1,NK49-min,-1,NK51-min,280,-1
+NK51-min,-1,NK50-min,-1,NK52-min,180,-1
+NK52-min,-1,NK51-min,-1,-1,190,-1
+Jengrai
+R0010158-min,-1,R0010159-min,-1,-1,280,-1
+R0010159-min,-1,R0010160-min,-1,R0010158-min,0,-1
+R0010160-min,R0010163-min,R0010161-min,-1,R0010159-min,60,-1
+R0010161-min,R0010170-min,R0010162-min,-1,R0010160-min,250,-1
+R0010162-min,-1,R0010177-min,-1,R0010161-min,90,-1
+R0010163-min,R0010164-min,R0010169-min,R0010160-min,-1,200,-1
+R0010164-min,-1,-1,R0010163-min,-1,215,-1
+R0010168-min,-1,R0010171-min,R0010169-min,-1,170,-1
+R0010169-min,R0010168-min,R0010170-min,-1,R0010163-min,60,-1
+R0010170-min,R0010171-min,-1,R0010161-min,R0010169-min,5,-1
+R0010171-min,R0010172-min,-1,R0010170-min,R0010168-min,50,-1
+R0010172-min,R0010174-min,R0010173-min,R0010171-min,-1,340,-1
+R0010173-min,-1,-1,-1,R0010172-min,300,-1
+R0010174-min,R0010175-min,-1,R0010172-min,-1,310,-1
+R0010175-min,-1,-1,R0010174-min,R0010176-min,310,-1
+R0010176-min,-1,R0010175-min,-1,-1,140,-1
+R0010177-min,-1,R0010178-min,-1,R0010162-min,5,-1
+R0010178-min,-1,-1,R0010179-min,R0010177-min,70,-1
+R0010179-min,R0010178-min,-1,R0010180-min,-1,85,-1
+R0010180-min,R0010179-min,-1,-1,-1,85,-1
+Dakhinpaat
+DK1-min,-1,-1,-1,DK2-min,0,-1
+DK2-min,-1,DK1-min,-1,DK3-min,358,-1
+DK3-min,-1,DK2-min,-1,DK4-min,351,-1
+DK4-min,-1,DK3-min,-1,DK5-min,355,-1
+DK5-min,-1,DK4-min,-1,DK6-min,352,-1
+DK6-min,-1,DK5-min,-1,DK7-min,175,-1
+DK7-min,-1,DK6-min,-1,DK8-min,355,-1
+DK8-min,-1,DK7-min,-1,DK9-min,2,-1
+DK9-min,-1,DK8-min,-1,DK10-min,0,-1
+DK10-min,-1,DK9-min,DK12-min,DK13-min,0,-1
+DK12-min,DK10-min,-1,-1,-1,335,-1
+DK13-min,-1,DK10-min,-1,DK14-min,0,-1
+DK14-min,-1,DK13-min,-1,DK15-min,8,-1
+DK15-min,-1,DK14-min,-1,DK16-min,8,-1
+DK16-min,-1,DK15-min,-1,DK18-min,2,-1
+DK17-min,DK18-min,-1,DK72-min,-1,270,-1
+DK18-min,-1,DK16-min,DK17-min,DK19-min,6,-1
+DK19-min,DK20-min,DK18-min,-1,-1,272,-1
+DK20-min,DK21-min,-1,DK19-min,-1,280,-1
+DK21-min,DK22-min,-1,DK20-min,-1,270,-1
+DK22-min,-1,DK23-min,DK21-min,-1,270,-1
+DK23-min,DK24-min,-1,-1,DK22-min,283,-1
+DK24-min,DK25-min,-1,DK23-min,-1,280,-1
+DK25-min,DK27-min,DK26-min,DK24-min,-1,270,-1
+DK26-min,-1,-1,-1,DK25-min,0,-1
+DK27-min,DK28-min,-1,DK25-min,-1,280,-1
+DK28-min,-1,-1,DK27-min,DK29-min,42,-1
+DK29-min,DK69-min,DK28-min,DK46-min,DK30-min,100,-1
+DK30-min,-1,DK29-min,-1,-1,150,-1
+DK32-min,DK42-min,-1,DK33-min,DK43-min,185,-1
+DK33-min,DK32-min,-1,DK34-min,-1,180,-1
+DK34-min,DK33-min,-1,DK71-min,-1,180,-1
+DK35-min,DK36-min,-1,-1,-1,275,-1
+DK36-min,DK37-min,-1,DK35-min,-1,275,-1
+DK37-min,DK38-min,-1,DK36-min,-1,275,-1
+DK38-min,DK39-min,-1,DK37-min,-1,275,-1
+DK39-min,DK40-min,-1,DK38-min,-1,275,-1
+DK40-min,DK44-min,DK41-min,DK39-min,-1,275,-1
+DK41-min,-1,-1,-1,DK40-min,270,-1
+DK42-min,-1,DK44-min,DK32-min,-1,275,-1
+DK43-min,DK49-min,DK32-min,-1,-1,270,-1
+DK44-min,DK46-min,-1,DK40-min,DK42-min,275,-1
+DK46-min,DK29-min,DK47-min,DK44-min,DK48-min,280,-1
+DK47-min,-1,-1,-1,DK46-min,300,-1
+DK48-min,-1,DK46-min,-1,-1,215,-1
+DK49-min,DK50-min,-1,DK43-min,-1,270,-1
+DK50-min,DK51-min,-1,DK49-min,-1,274,-1
+DK51-min,DK52-min,-1,DK50-min,-1,274,-1
+DK52-min,-1,DK53-min,DK51-min,DK54-min,270,-1
+DK53-min,-1,-1,-1,DK52-min,290,-1
+DK54-min,-1,DK52-min,-1,DK55-min,170,-1
+DK55-min,DK56-min,DK54-min,DK57-min,-1,120,-1
+DK56-min,-1,-1,DK55-min,-1,95,-1
+DK57-min,DK55-min,-1,DK58-min,-1,190,-1
+DK58-min,DK57-min,DK59-min,-1,-1,185,-1
+DK59-min,-1,DK60-min,-1,DK58-min,185,-1
+DK60-min,DK61-min,-1,-1,DK59-min,180,-1
+DK61-min,-1,-1,DK60-min,-1,0,-1
+DK62-min,DK65-min,-1,-1,-1,0,-1
+DK63-min,DK64-min,-1,DK65-min,-1,18,-1
+DK64-min,-1,-1,DK63-min,DK66-min,20,-1
+DK65-min,DK63-min,-1,DK62-min,-1,5,-1
+DK66-min,DK67-min,DK64-min,-1,-1,10,-1
+DK67-min,-1,-1,DK66-min,DK68-min,235,-1
+DK68-min,-1,DK67-min,-1,DK69-min,25,-1
+DK69-min,-1,DK68-min,DK29-min,-1,50,-1
+DK70-min,DK71-min,-1,-1,-1,270,-1
+DK71-min,DK34-min,-1,DK70-min,-1,270,-1
+DK72-min,DK17-min,-1,DK73-min,NIL -min,180,-1
+DK73-min,DK72-min,-1,-1,-1,90,-1
+
+
